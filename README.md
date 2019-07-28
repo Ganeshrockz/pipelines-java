@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ganes0551/My%20App/_apis/build/status/Ganeshrockz.pipelines-java?branchName=master)](https://dev.azure.com/ganes0551/My%20App/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 

@@ -3,7 +3,7 @@ stages:
   jobs: 
   - deployment: DeployPPE
     environment: ganes
-    pool: 'Default'
+    pool: 'ankhokha'
     strategy:
       runOnce:
         deploy:
@@ -24,7 +24,7 @@ stages:
   jobs: 
   - deployment: DeployPPE
     environment: ganes
-    pool: 'Default'
+    pool: 'ankhokha'
     strategy:
       runOnce:
         deploy:
